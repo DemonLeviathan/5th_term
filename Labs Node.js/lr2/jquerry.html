@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>jQuery Example</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<h2> Jquery </h2>
+<div id="nameData">
+</div>
+
+<script>
+  $.ajax({
+    url: '/api/name',
+    method: 'GET',
+    dataType: 'json',
+    success: function(data) {
+      const nameDiv = $('#nameData');
+      nameDiv.html("Surname: " + data.surname + "<br>Name: " + data.name + "<br>Middle name: " + data.patronimic);
+    },
+    error: function() {
+      console.error('Ajax error');
+    }
+  });
+</script>
+</body>
+</html>

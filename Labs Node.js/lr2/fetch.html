@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fetch </title>
+</head>
+<body>
+<h2> Fetch </h2>
+<div id="nameData">
+</div>
+
+<script>
+    fetch('/api/name')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            const nameDiv = document.getElementById("nameData");
+            nameDiv.innerHTML = "Surname: " + data.surname + "<br>Name: " + data.name + "<br>Middle name: " + data.patronimic;
+        })
+        .catch(error => {
+            console.error('Fetch error:', error);
+        });
+</script>
+</body>
+</html>
