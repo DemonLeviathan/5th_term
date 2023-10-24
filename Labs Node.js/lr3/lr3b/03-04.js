@@ -2,7 +2,7 @@ const { v4: uuidv4 } = require('uuid');
 
 function validateCard(cardNumber) {
     console.log(`Validating card: ${cardNumber}`);
-    return Math.random() < 0.5; // случайное значение для имитации проверки карты
+    return Math.random() < 0.5;
 }
 
 function createOrder(customerCardNumber) {
@@ -31,14 +31,14 @@ function proceedToPayment(orderId) {
 
 createOrder("1234-5678-9012-3456")
     .then(orderId => {
-        console.log(`Order created: ${orderId}`);
+        console.log(`Order created promise: ${orderId}`);
         return proceedToPayment(orderId);
     })
     .then(paymentResult => {
-        console.log(`Payment result: ${paymentResult}`);
+        console.log(`Payment result promise: ${paymentResult}`);
     })
     .catch(error => {
-        console.error("Error:", error);
+        console.error("Error promise:", error);
     });
 
 async function handleOrders() {
