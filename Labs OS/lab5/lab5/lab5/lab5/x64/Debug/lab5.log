@@ -1,0 +1,9 @@
+﻿  os05-01.cpp
+D:\5sem\ОС\lab5\lab5\lab5\os05-01.cpp(61,18): error C2664: "BOOL GetProcessAffinityMask(HANDLE,PDWORD_PTR,PDWORD_PTR)": невозможно преобразовать аргумент 2 из "DWORD *" в "PDWORD_PTR"
+D:\5sem\ОС\lab5\lab5\lab5\os05-01.cpp(61,45): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(1423,1): message : см. объявление "GetProcessAffinityMask"
+D:\5sem\ОС\lab5\lab5\lab5\os05-01.cpp(61,18): message : при попытке сопоставить список аргументов "(HANDLE, DWORD *, DWORD *)"
+D:\5sem\ОС\lab5\lab5\lab5\os05-01.cpp(67,17): error C2664: "BOOL GetProcessAffinityMask(HANDLE,PDWORD_PTR,PDWORD_PTR)": невозможно преобразовать аргумент 2 из "DWORD *" в "PDWORD_PTR"
+D:\5sem\ОС\lab5\lab5\lab5\os05-01.cpp(67,44): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winbase.h(1423,1): message : см. объявление "GetProcessAffinityMask"
+D:\5sem\ОС\lab5\lab5\lab5\os05-01.cpp(67,17): message : при попытке сопоставить список аргументов "(HANDLE, DWORD *, DWORD *)"
