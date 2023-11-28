@@ -431,6 +431,12 @@
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
       },
+      "Selenium.WebDriver.ChromeDriver/119.0.6045.10500": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      },
       "System.Collections/4.0.11": {
         "type": "package",
         "dependencies": {
@@ -977,6 +983,9 @@
       "Calculator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Selenium.WebDriver.ChromeDriver": "119.0.6045.10500"
+        },
         "compile": {
           "bin/placeholder/Calculator.dll": {}
         },
@@ -1924,6 +1933,29 @@
         "build/netcoreapp2.1/testcentric.engine.metadata.dll",
         "nunit3testadapter.4.3.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/119.0.6045.10500": {
+      "sha512": "HwYe60H6KFQJLUx9A8QLJiLoRkXbHnHrw46uKilue3BRxDPX6DAa5W8jWUEy9rAFOn7alKBcyWBWUJDDGeB70Q==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/119.0.6045.10500",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
       ]
     },
     "System.Collections/4.0.11": {
@@ -3939,6 +3971,7 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.5.0",
       "NUnit3TestAdapter >= 4.3.0",
+      "Selenium.WebDriver.ChromeDriver >= 119.0.6045.10500",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -4005,6 +4038,10 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[4.3.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[119.0.6045.10500, )"
           },
           "coverlet.collector": {
             "target": "Package",

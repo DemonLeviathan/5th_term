@@ -21,7 +21,6 @@ namespace CalculatorApp
         {
             Calculator calc = new Calculator();
 
-            // Пример использования калькулятора
             double result = calc.Add(10, 5);
             Console.WriteLine("10 + 5 = " + result);
         }

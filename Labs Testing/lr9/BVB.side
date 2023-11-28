@@ -1,0 +1,139 @@
+{
+  "id": "264fab07-364c-4cdb-b1f3-bf21aa7e70fa",
+  "version": "2.0",
+  "name": "BVB",
+  "url": "https://www.bvb.de",
+  "tests": [{
+    "id": "57e8f66e-1a20-4b9a-a634-b7ebc981fddb",
+    "name": "CheckNewsButton",
+    "commands": [{
+      "id": "3545a582-efdb-4fcb-8e58-2648bd7e6230",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=News",
+      "targets": [
+        ["linkText=News", "linkText"],
+        ["css=.dl-subviewopen > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'News')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Hauptnavigation', 'News']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/eng/News')]", "xpath:href"],
+        ["xpath=//nav/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'News')]", "xpath:innerText"]
+      ],
+      "value": "News"
+    }, {
+      "id": "7b473e60-4512-43fd-b56a-8625452f0f94",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.force-default:nth-child(2) > .moved",
+      "targets": [
+        ["css=.force-default:nth-child(2) > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'BVB-TV')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Subnavigation Mobil', 'BVB TV']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://tv.bvb.de/en/')])[2]", "xpath:href"],
+        ["xpath=//nav/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": "BVB-TV"
+    }, {
+      "id": "e3ec737b-1203-4012-8223-9bda0fa5d781",
+      "comment": "",
+      "command": "open",
+      "target": "/eng",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ff791dca-34d8-4f5b-8610-c8756a9ee2fe",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x840",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "df566070-38d3-4b66-8a17-6986fb80e36d",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=News",
+      "targets": [
+        ["linkText=News", "linkText"],
+        ["css=#menu-main > li:nth-child(1) > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'News')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Hauptnavigation', 'News']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/eng/News')]", "xpath:href"],
+        ["xpath=//nav/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'News')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fa830ba8-9a86-4210-a497-623d68f94132",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=News",
+      "targets": [
+        ["linkText=News", "linkText"],
+        ["css=.act > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'News')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Hauptnavigation', 'News']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/eng/News')]", "xpath:href"],
+        ["xpath=//nav/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'News')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "eaa89775-c067-4ec2-a4b2-1150eb1e810d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quick-search:nth-child(4) > span > input",
+      "targets": [
+        ["css=.quick-search:nth-child(4) > span > input", "css:finder"],
+        ["xpath=//input[@value='Suchen']", "xpath:attributes"],
+        ["xpath=//div[@id='bvb-meta-bar']/div[2]/div[2]/form/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f8c3f84a-4433-4745-afac-b79d5e87e926",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.open > input", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//div[@id='bvb-meta-bar']/div[2]/div[2]/form/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "mana"
+    }, {
+      "id": "309cf03c-6ed3-4b1c-b3dc-a34b97afa33b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.main",
+      "targets": [
+        ["css=.main", "css:finder"],
+        ["xpath=//header/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "36e36309-b770-4a7f-94a7-ab8576d7eb22",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=News",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "194ab09e-445d-4071-96b7-00ee71359e39",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["57e8f66e-1a20-4b9a-a634-b7ebc981fddb"]
+  }],
+  "urls": ["https://www.bvb.de/"],
+  "plugins": []
+}

@@ -21,13 +21,15 @@
 <ul id="dbRecords"></ul>
 
 <button id="getRecordsBtn" data-method="GET">Get Records</button>
-<button id="updateRecordBtn" data-method="PUT">Update(PUT) Record</button>
+<button id="updateRecordNameBtn" data-method="PUT">Update(PUT) Name Record</button>
+<button id="updateRecordBdayBtn" data-method="PUT">Update(PUT) Birthday Record</button>
 <button id="deleteRecordBtn" data-method="DELETE">Delete Record</button>
 
 <script>
     const addRecordForm = document.getElementById('addRecordForm');
     const getRecordsBtn = document.getElementById('getRecordsBtn');
-    const updateRecordBtn = document.getElementById('updateRecordBtn');
+    const updateRecordNameBtn = document.getElementById('updateRecordNameBtn');
+    const updateRecordBdayBtn = document.getElementById('updateRecordBdayBtn');
     const deleteRecordBtn = document.getElementById('deleteRecordBtn');
     const dbRecords = document.getElementById('dbRecords');
 
@@ -81,32 +83,19 @@
         fetchAndDisplayRecords();
     });
 
-    updateRecordBtn.addEventListener('click', function () {
-        const method = updateRecordBtn.getAttribute('data-method');
+    updateRecordNameBtn.addEventListener('click', function () {
+        const method = updateRecordNameBtn.getAttribute('data-method');
         const recordId = prompt('Enter the ID of the record to update:');
         if (recordId) {
             const name = prompt('Enter the new name:');
-            const rawBday = prompt('Enter the new birthday (YYYY-MM-DD):');
-            const currentDate = new Date();
-            // Регулярное выражение для проверки формата даты YYYY-MM-DD
-            const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 
-            if (name && rawBday) {
-                if (!datePattern.test(rawBday)) {
-                    alert('Invalid date format. Please use YYYY-MM-DD.');
-                } else if (rawBday > currentDate.toISOString().slice(0, 10)) {
-                    alert('Future dates are not allowed.');
-                } else if (isCorrectMonth(rawBday) && isCorrectDay(rawBday)) {
-                    alert('Incorrect month or day.');
-                }
-                else {
-                    const bday = rawBday;
+            if (name) {
                     fetch(`/api/db?id=${recordId}`, {
                         method,
                         headers: {
                             'Content-Type': 'application/json'
                         },
-                        body: JSON.stringify({ name, bday })
+                        body: JSON.stringify({ name })
                     })
                         .then(response => response.json())
                         .then(data => {
@@ -118,7 +107,47 @@
                         });
                 }
             } else {
-                alert('Name and birthday are required for update.');
+                alert('Name is required for update.');
+            }
+    });
+
+    updateRecordBdayBtn.addEventListener('click', function () {
+        const method = updateRecordBdayBtn.getAttribute('data-method');
+        const recordId = prompt('Enter the ID of the record to update:');
+        if (recordId) {
+            const rawBday = prompt('Enter the new birthday (YYYY-MM-DD):');
+            const currentDate = new Date();
+            // Регулярное выражение для проверки формата даты YYYY-MM-DD
+            const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+            if (rawBday) {
+                if (!datePattern.test(rawBday)) {
+                    alert('Invalid date format. Please use YYYY-MM-DD.');
+                }else if (!isCorrectMonth(rawBday) && !isCorrectDay(rawBday)) {
+                    alert('Incorrect month or day.');
+                } else if (rawBday > currentDate.toISOString().slice(0, 10)) {
+                    alert('Future dates are not allowed.');
+                }
+                else {
+                    const bday = rawBday;
+                    fetch(`/api/db?id=${recordId}`, {
+                        method,
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ bday })
+                    })
+                        .then(response => response.json())
+                        .then(data => {
+                            console.log('Record updated:', data);
+                            fetchAndDisplayRecords();
+                        })
+                        .catch(error => {
+                            console.error('Error updating record:', error);
+                        });
+                }
+            } else {
+                alert('Birthday is required for update.');
             }
         }
     });
@@ -148,7 +177,7 @@
         const day = dateString.substring(9, 10);
         return (day < 32 && day > 0);
     }
-
+// 2023-11-11
     fetchAndDisplayRecords();
 </script>
 </body>

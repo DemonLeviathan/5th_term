@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S71zrYeWV6InGdxmw78gzf7VqOzT7zKltPWKbfTv2SW5KVyUvRZHoy0CHm893siwsrHbeh4ct1PnD5sdB/7g3w==",
+  "dgSpecHash": "plM4LutM94Xc18Jzgwyhl0/9O6dgNFeJ2tucobOBQOtUSUa3ny2n0Hw97blfh3mv2x78s4ZFfRsfOFqVqaXqlQ==",
   "success": true,
   "projectFilePath": "D:\\Univer\\5-th term\\Labs Testing\\lr7\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\selenium.webdriver.chromedriver\\119.0.6045.10500\\selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512"
+  ],
   "logs": []
 }
