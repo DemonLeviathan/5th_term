@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Element.cpp
+F:\BGTU\Course3\Sem1\SP\Labs\OS_Lab11\OS11_HTAPI\Element.h(25,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/Element.cpp")
+  
+  HT.cpp
+F:\BGTU\Course3\Sem1\SP\Labs\OS_Lab11\OS11_HTAPI\Element.h(25,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::Element", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/HT.cpp")
+  
+F:\BGTU\Course3\Sem1\SP\Labs\OS_Lab11\OS11_HTAPI\HT.h(41,3): warning C4091: __declspec(dllexport): пропускается слева от "ht::HtHandle", когда ни одна переменная не объявлена
+  (компиляция исходного файла "/HT.cpp")
+  
+  Создание кода...
+     Создается библиотека F:\BGTU\Course3\Sem1\SP\Labs\OS_Lab11\x64\Debug\OS11_HTAPI.lib и объект F:\BGTU\Course3\Sem1\SP\Labs\OS_Lab11\x64\Debug\OS11_HTAPI.exp
+  OS11_HTAPI.vcxproj -> F:\BGTU\Course3\Sem1\SP\Labs\OS_Lab11\x64\Debug\OS11_HTAPI.dll

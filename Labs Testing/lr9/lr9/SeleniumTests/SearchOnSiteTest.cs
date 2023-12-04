@@ -28,7 +28,7 @@ namespace SeleniumTests
             // Шаг 3: В поисковую строку вводим какой-либо текст
             IWebElement searchInput = driver.FindElement(By.Name("q")); 
             searchInput.SendKeys("news"); 
-            searchInput.SendKeys(Keys.Enter); // Нажимаем Enter, чтобы выполнить поиск
+            searchInput.SendKeys(Keys.Enter); 
 
         }
 

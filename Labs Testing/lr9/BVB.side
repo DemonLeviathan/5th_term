@@ -2,7 +2,7 @@
   "id": "264fab07-364c-4cdb-b1f3-bf21aa7e70fa",
   "version": "2.0",
   "name": "BVB",
-  "url": "https://www.bvb.de",
+  "url": "https://www.bvb.de/",
   "tests": [{
     "id": "57e8f66e-1a20-4b9a-a634-b7ebc981fddb",
     "name": "CheckNewsButton",
@@ -124,6 +124,140 @@
       "target": "linkText=News",
       "targets": [],
       "value": ""
+    }, {
+      "id": "157819e4-0f1e-4d65-9a11-c18b18302a60",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f4fa331e-5cdb-45df-bd61-d98c4002f5a7",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=BVB-TV",
+      "targets": [
+        ["linkText=BVB-TV", "linkText"],
+        ["css=.force-default:nth-child(2) > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'BVB-TV')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Subnavigation Mobil', 'BVB TV']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://tv.bvb.de/')])[2]", "xpath:href"],
+        ["xpath=//nav/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": "BVB-TV"
+    }, {
+      "id": "d2dbcb05-ada5-466b-80c1-2d676db0ec0f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.act > div > .invert-rotate",
+      "targets": [
+        ["css=.act > div > .invert-rotate", "css:finder"],
+        ["xpath=//img[@alt='Geschäftsführung präsentiert Aktionären nach der Pandemie einen Umsatzrekord']", "xpath:img"],
+        ["xpath=//div[@id='slider-stage']/div/article[2]/div/img", "xpath:idRelative"],
+        ["xpath=//article[2]/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f1004669-9e0f-4b51-a207-03d70d0f2436",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0baf4e6d-2775-4c71-b4c0-ea68928413a2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.main",
+      "targets": [
+        ["css=.main", "css:finder"],
+        ["xpath=//header/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "613b33f8-4ef0-4470-a0ec-25cff8dbfb53",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=BVB-TV",
+      "targets": [
+        ["linkText=BVB-TV", "linkText"],
+        ["css=.force-default:nth-child(2) > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'BVB-TV')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Subnavigation Mobil', 'BVB TV']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://tv.bvb.de/')])[2]", "xpath:href"],
+        ["xpath=//nav/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": "BVB-TV"
+    }, {
+      "id": "f322934d-34b7-49e1-8d03-4237d3910f0d",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "79de0003-ec27-4ec0-80a6-55fedc7aa983",
+      "comment": "",
+      "command": "click",
+      "target": "id=dl-menu",
+      "targets": [
+        ["id=dl-menu", "id"],
+        ["css=#dl-menu", "css:finder"],
+        ["xpath=//nav[@id='dl-menu']", "xpath:attributes"],
+        ["xpath=//nav", "xpath:position"],
+        ["xpath=//nav[contains(.,'Open Menu')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ea22ead6-37c2-4f88-9e3e-a8984979c2d3",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Shop",
+      "targets": [
+        ["linkText=Shop", "linkText"],
+        ["css=.force-default:nth-child(3) > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'Shop')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Subnavigation Mobil', 'Shop']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://shop.bvb.de/?utm_source=bvbde&utm_campaign=shop&utm_medium=menue')]", "xpath:href"],
+        ["xpath=//nav/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": "Shop"
+    }]
+  }, {
+    "id": "b0929258-18af-46fe-ac2f-45eea681cf7a",
+    "name": "CheckShopButton",
+    "commands": [{
+      "id": "41cd6446-1d5a-4d46-88af-487d3b4928b4",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.bvb.de/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "637b13a8-9e15-4464-b4a5-ac222b4ab3ae",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x840",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c7961e04-53aa-469b-9251-ac84bc806d79",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Shop",
+      "targets": [
+        ["linkText=Shop", "linkText"],
+        ["css=.force-default:nth-child(3) > .moved", "css:finder"],
+        ["xpath=//a[contains(text(),'Shop')]", "xpath:link"],
+        ["xpath=//a[@onclick=\"_gaq.push(['_trackEvent', 'Subnavigation Mobil', 'Shop']);\"]", "xpath:attributes"],
+        ["xpath=//ul[@id='menu-main']/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://shop.bvb.de/?utm_source=bvbde&utm_campaign=shop&utm_medium=menue')]", "xpath:href"],
+        ["xpath=//nav/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": "Shop"
     }]
   }],
   "suites": [{
