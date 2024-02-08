@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ClassFactory.cpp
+  ComponentHT.cpp
+  dllmain.cpp
+  Registry.cpp
+D:\Univer\5-th term\Labs SP\USGR_HTCOM\OS14_HTCOM\Registry.cpp(146,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  (компиляция исходного файла "/Registry.cpp")
+  
+  Создание кода...
+     Создается библиотека D:\Univer\5-th term\Labs SP\USGR_HTCOM\x64\Debug\OS14_HTCOM.lib и объект D:\Univer\5-th term\Labs SP\USGR_HTCOM\x64\Debug\OS14_HTCOM.exp
+  OS14_HTCOM.vcxproj -> D:\Univer\5-th term\Labs SP\USGR_HTCOM\x64\Debug\OS14_HTCOM.dll

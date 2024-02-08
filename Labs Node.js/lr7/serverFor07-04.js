@@ -5,25 +5,39 @@ const server = http.createServer((request, response) => {
         let body = '';
 
         request.on('data', (chunk) => {
-            body += chunk.toString();
+            body += chunk;
         });
 
         request.on('end', () => {
             try {
+                //console.log(body)
                 const data = JSON.parse(body);
+                const comment = data._comment;
+                const x = data.x;
+                const y = data.y;
+                const s = data.s;
+                const o = data.o;
+                const m = data.m;
 
-                console.log('Received data:', data);
+                const responseBody = {
+                    "_comment": "Answer: " + comment,
+                    "x_plus_y": x + y,
+                    "Concatination_s_o": s +": "+ (o ? o.name : 'N/A'),
+                    "Length_m": m.length
+                }
+
+                console.log('Received data:', responseBody);
 
                 response.writeHead(200, { 'Content-Type': 'application/json' });
-                response.end(JSON.stringify({ message: 'Data received successfully' }));
+                response.end(JSON.stringify(responseBody, null, 4));
             } catch (error) {
                 console.error('Error parsing JSON:', error);
-                response.writeHead(400, { 'Content-Type': 'text/plain' });
+                response.writeHead(400, { 'Content-Type': 'application/json' });
                 response.end('Error parsing JSON');
             }
         });
     } else {
-        response.writeHead(404, { 'Content-Type': 'text/plain' });
+        response.writeHead(404, { 'Content-Type': 'application/json' });
         response.end('Not Found');
     }
 });

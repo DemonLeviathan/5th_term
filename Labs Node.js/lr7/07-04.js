@@ -1,12 +1,14 @@
 const http = require('http');
 
 const postData = JSON.stringify({
-    data: {
-        x: 5,
-        y: 10,
-        s: 'sampleString',
-    },
+    "_comment": "josvklrk",
+    "x": 1,
+    "y": 2,
+    "s": "Message",
+    "m": ["a", "b", "c", "d"],
+    "o": {"surname": "Ivanov", "name": "Ivan"}
 });
+
 
 const options = {
     hostname: 'localhost',

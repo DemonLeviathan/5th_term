@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\Univer\\5-th term\\Labs Testing\\lr10\\lr10\\lr10\\lr10.csproj",
         "projectName": "lr10",
         "projectPath": "D:\\Univer\\5-th term\\Labs Testing\\lr10\\lr10\\lr10\\lr10.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "D:\\Univer\\5-th term\\Labs Testing\\lr10\\lr10\\lr10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

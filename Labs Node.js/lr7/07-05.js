@@ -17,7 +17,7 @@ const options = {
     method: 'POST',
     headers: {
         'Content-Type': 'application/xml',
-        'Content-Length': xmlData.length,
+        'Content-Length': Buffer.byteLength(xmlData),
     },
 };
 
@@ -38,6 +38,10 @@ const request = http.request(options, (response) => {
 
 request.on('error', (e) => {
     console.error(`Problem with request: ${e.message}`);
+});
+
+request.on('data', (chunk) => {
+    console.log(`Received chunk of data: ${chunk}`);
 });
 
 request.write(xmlData);

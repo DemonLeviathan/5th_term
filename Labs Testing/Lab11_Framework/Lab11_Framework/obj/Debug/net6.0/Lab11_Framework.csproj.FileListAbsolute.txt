@@ -1,0 +1,257 @@
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\testhost.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\testhost.exe
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.engine.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.deps.json
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.runtimeconfig.json
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.pdb
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.framework.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\WebDriver.Support.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\WebDriver.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.csproj.AssemblyReference.cache
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.AssemblyInfoInputs.cache
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.AssemblyInfo.cs
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.csproj.CoreCompileInputs.cache
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.csproj.CopyComplete
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\refint\Lab11_Framework.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.pdb
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.genruntimeconfig.cache
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\ref\Lab11_Framework.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\FluentValidation.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\IPAddressRange.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Lab11_Framework\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Ocelot.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\testhost.exe
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\testhost.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.engine.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.deps.json
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.runtimeconfig.json
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Lab11_Framework.pdb
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\FluentValidation.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\IPAddressRange.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\nunit.framework.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Ocelot.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\WebDriver.Support.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\WebDriver.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.csproj.AssemblyReference.cache
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.AssemblyInfoInputs.cache
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.AssemblyInfo.cs
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.csproj.CoreCompileInputs.cache
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.sourcelink.json
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.csproj.CopyComplete
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\refint\Lab11_Framework.dll
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.pdb
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\Lab11_Framework.genruntimeconfig.cache
+D:\Univer\5-th term\Labs Testing\Lab11_Framework\Lab11_Framework\obj\Debug\net6.0\ref\Lab11_Framework.dll

@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Auth.cpp
+D:\Univer\5-th term\Labs SP\USGR_HTCOM\OS14_HTAPI\Auth.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Auth.cpp")
+  
+D:\Univer\5-th term\Labs SP\USGR_HTCOM\OS14_HTAPI\Auth.cpp(73,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Auth.cpp")
+  
+  Element.cpp
+  HT.cpp
+D:\Univer\5-th term\Labs SP\USGR_HTCOM\OS14_HTAPI\HT.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  OS14_HTAPI.vcxproj -> D:\Univer\5-th term\Labs SP\USGR_HTCOM\x64\Debug\OS14_HTAPI.lib

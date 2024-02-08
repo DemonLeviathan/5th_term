@@ -60,9 +60,10 @@ const getRequest = (request, response) =>
                 return headersHTML;
             };
 
+            response.setHeader('Connection', 'keep-alive');
+            response.setHeader('Content-Type', 'text/html; charset=utf-8')
             const requestHeadersHTML = generateHeadersHTML(request.headers);
-            //const responseHeaders = response.getHeaders();
-            const responseHeadersHTML = generateHeadersHTML(response.headers);
+            const responseHeadersHTML = generateHeadersHTML(response.getHeaders());
 
             response.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
             response.end(`

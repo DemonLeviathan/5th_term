@@ -1,22 +1,25 @@
 const http = require('http');
 const fs = require('fs');
 
-const server = http.createServer((request, response) => {
-    if (request.method === 'POST' && request.url === '/upload') {
-        const writeStream = fs.createWriteStream('./uploaded_files/tanci-s-bubnami.jpg');
+const server = http.createServer((req, res) => {
+    if (req.method === 'GET' && req.url === '/file') {
+        const filePath = './received_file.jpg';
+        if (fs.existsSync(filePath)) {
+            const stat = fs.statSync(filePath);
+            res.writeHead(200, {
+                'Content-Type': 'image/jpeg',
+                'Content-Length': stat.size,
+            });
 
-        request.on('data', (chunk) => {
-            writeStream.write(chunk);
-        });
-
-        request.on('end', () => {
-            writeStream.end();
-            response.writeHead(200, { 'Content-Type': 'text/plain' });
-            response.end('File uploaded successfully');
-        });
+            const readStream = fs.createReadStream(filePath);
+            readStream.pipe(res);
+        } else {
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('File not found');
+        }
     } else {
-        response.writeHead(404, { 'Content-Type': 'text/plain' });
-        response.end('Not Found');
+        res.writeHead(404, { 'Content-Type': 'text/plain' });
+        res.end('Not Found');
     }
 });
 
